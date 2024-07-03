@@ -4,9 +4,9 @@
 ![](https://raw.githubusercontent.com/pdir/.github/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/pdir/.github/output/github-contribution-grid-snake.svggh-light-mode-only)
 
-### Informations & Tools:
+### Informations & nice tools:
 
-[Our website](https://pdir.de)  
+[Website](https://pdir.de)  
 [Blog](https://pdir.de/agentur-webdesign-blog.html)  
 [Website Check](https://pdir.de/website-check.html)  
 
@@ -28,4 +28,3 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white)
 ![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black)
-
