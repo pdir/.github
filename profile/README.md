@@ -6,8 +6,8 @@
 
 ### Nice Tools:
 
-[Blog](https://pdir.de/agentur-webdesign-blog.html)
-[Website Check](https://pdir.de/website-check.html)
+[Blog](https://pdir.de/agentur-webdesign-blog.html)  
+[Website Check](https://pdir.de/website-check.html)  
 
 ### Things we use:
 
