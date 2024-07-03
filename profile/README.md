@@ -1,8 +1,11 @@
 
 # Welcome to pdir 
 
-![](https://raw.githubusercontent.com/pdir/.github/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/pdir/.github/output/github-contribution-grid-snake.svggh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MDevster/snake/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MDevster/snake/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDevster/snake/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### Informations & nice tools:
 
