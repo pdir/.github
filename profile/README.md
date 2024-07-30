@@ -7,7 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MDevster/snake/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Informations & nice tools:
+### Information & nice tools:
 
 [Website](https://pdir.de)  
 [Blog](https://pdir.de/agentur-webdesign-blog.html)  
